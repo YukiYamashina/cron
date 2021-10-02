@@ -28,7 +28,9 @@ jobs:
         env:
           LINE_POST_API_URL: ${{ secrets.LINE_POST_API_URL }}
           LINE_POST_TOKEN: ${{ secrets.LINE_POST_TOKEN }}
-        run: python3 ./toushiru/main.py
+        run: |
+          cd toushiru
+          python3 main.py
 
       - name: Push updates
         run: |
