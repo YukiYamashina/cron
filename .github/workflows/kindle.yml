@@ -27,7 +27,9 @@ jobs:
         env:
           LINE_POST_API_URL: ${{ secrets.LINE_POST_API_URL }}
           LINE_POST_TOKEN: ${{ secrets.LINE_POST_TOKEN }}
-        run: python3 ./kindle/main.py
+        run: |
+          cd kindle
+          python3 main.py
 
       - name: Push updates
         run: |
