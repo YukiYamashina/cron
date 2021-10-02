@@ -23,11 +23,11 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests feedgen pytz selenium
 
-      - name: Update kindle/kindle.json
+      - name: Update toushiru/toushiru.xml
         env:
           LINE_POST_API_URL: ${{ secrets.LINE_POST_API_URL }}
           LINE_POST_TOKEN: ${{ secrets.LINE_POST_TOKEN }}
-        run: python3 ./kindle/main.py
+        run: python3 ./toushiru/main.py
 
       - name: Push updates
         run: |
