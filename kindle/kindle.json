@@ -1,1 +1,17 @@
-[]
+[
+    {
+        "href": "https://www.amazon.co.jp/-/en/gp/product/B00J3NFPBE?storeType=ebooks&pageType=STOREFRONT&pf_rd_p=7c580d2a-2476-462c-8ac3-ed56a3e5f873&pf_rd_r=JT0B4B1Q43VS9T1Y67S0&pf_rd_s=merchandised-search-6&pf_rd_t=&ref_=dbs_f_r_shv_7c580d2a-2476-462c-8ac3-ed56a3e5f873_0&pf_rd_i=3251934051",
+        "title": "タモリ学　タモリにとってタモリとは何か？",
+        "thumbnail": "https://m.media-amazon.com/images/I/51ZFJ3h+HNL._SY300_.jpg"
+    },
+    {
+        "href": "https://www.amazon.co.jp/-/en/gp/product/B08FDSSYKN?storeType=ebooks&pageType=STOREFRONT&pf_rd_p=7c580d2a-2476-462c-8ac3-ed56a3e5f873&pf_rd_r=JT0B4B1Q43VS9T1Y67S0&pf_rd_s=merchandised-search-6&pf_rd_t=&ref_=dbs_f_r_shv_7c580d2a-2476-462c-8ac3-ed56a3e5f873_1&pf_rd_i=3251934051",
+        "title": "つくられた格差～不公平税制が生んだ所得の不平等～",
+        "thumbnail": "https://m.media-amazon.com/images/I/51pWUkLTetL._SY300_.jpg"
+    },
+    {
+        "href": "https://www.amazon.co.jp/-/en/gp/product/B01269HXGQ?storeType=ebooks&pageType=STOREFRONT&pf_rd_p=7c580d2a-2476-462c-8ac3-ed56a3e5f873&pf_rd_r=JT0B4B1Q43VS9T1Y67S0&pf_rd_s=merchandised-search-6&pf_rd_t=&ref_=dbs_f_r_shv_7c580d2a-2476-462c-8ac3-ed56a3e5f873_2&pf_rd_i=3251934051",
+        "title": "日本でいちばん大切にしたい会社",
+        "thumbnail": "https://m.media-amazon.com/images/I/41W76xY95YL._SY300_.jpg"
+    }
+]
