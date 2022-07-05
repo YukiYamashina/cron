@@ -2,7 +2,7 @@ name: Kindle日替わりセールを更新
 
 on:
   workflow_dispatch:
-  schedule:
+  # schedule:
     # 毎日 15:10 (UST) = 0:10 (JST) に実行
     # - cron: '10 15 * * *'
     # 毎日 22:00 (UST) = 7:00 (JST) に実行
