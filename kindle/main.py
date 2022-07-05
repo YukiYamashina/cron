@@ -21,18 +21,18 @@ driver = webdriver.Chrome(options=options)
 driver.set_page_load_timeout(30)
 
 def main():
-    url = 'https://www.amazon.co.jp//b/?ie=UTF8&node=3251934051'
+    url = 'https://www.amazon.co.jp/b/?ie=UTF8&node=3251934051'
     # print(f'Start fetching {url} ...')
 
     try:
         driver.get(url)
         item_selector = '#anonCarousel1 > ol > li'
-        images = list(map(lambda elm: elm.find_element_by_css_selector('img').get_attribute('src'), driver.find_elements_by_css_selector(item_selector)))
+        images = list(map(lambda elm: elm.find_element(By.CSS_SELECTOR, 'img').get_attribute('src'), driver.find_elements(By.CSS_SELECTOR, item_selector)))
         items = list(map(lambda elm: {
-            'href': elm.find_element_by_css_selector('a').get_attribute('href'),
-            'title': elm.find_element_by_css_selector('img').get_attribute('alt'),
-            'thumbnail': elm.find_element_by_css_selector('img').get_attribute('src'),
-        }, driver.find_elements_by_css_selector(item_selector)))
+            'href': elm.find_element(By.CSS_SELECTOR, 'a').get_attribute('href'),
+            'title': elm.find_element(By.CSS_SELECTOR, 'img').get_attribute('alt'),
+            'thumbnail': elm.find_element(By.CSS_SELECTOR, 'img').get_attribute('src'),
+        }, driver.find_elements(By.CSS_SELECTOR, item_selector)))
 
         item_data = {
             'postToken': os.environ.get('LINE_POST_TOKEN'),

@@ -30,18 +30,18 @@ def main():
         fg = FeedGenerator()
         fg.id(url)
         fg.title(driver.title)
-        fg.author( {'name': driver.find_element_by_xpath('/html/head/meta[13]').get_attribute('content')} )
+        fg.author( {'name': driver.find_element(By.XPATH, '/html/head/meta[13]').get_attribute('content')} )
         fg.link( href = url, rel='alternate' )
-        fg.logo(driver.find_element_by_xpath('/html/head/meta[10]').get_attribute('content'))
+        fg.logo(driver.find_element(By.XPATH, '/html/head/meta[10]').get_attribute('content'))
 
         articles = list(map(lambda elm: {
-            'href': elm.find_element_by_css_selector('.title a').get_attribute('href'),
-            'title': elm.find_element_by_css_selector('.title').text,
-            'category': elm.find_element_by_css_selector('.cname').text,
-            'timestamp': elm.find_element_by_css_selector('.date').text.replace('NEW ', ''),
-            'eyecatch': elm.find_element_by_css_selector('img').get_attribute('data-src'),
-            'description': elm.find_element_by_css_selector('img').get_attribute('alt')
-        }, driver.find_elements_by_css_selector('.article-list .list')))
+            'href': elm.find_element(By.CSS_SELECTOR, '.title a').get_attribute('href'),
+            'title': elm.find_element(By.CSS_SELECTOR, '.title').text,
+            'category': elm.find_element(By.CSS_SELECTOR, '.cname').text,
+            'timestamp': elm.find_element(By.CSS_SELECTOR, '.date').text.replace('NEW ', ''),
+            'eyecatch': elm.find_element(By.CSS_SELECTOR, 'img').get_attribute('data-src'),
+            'description': elm.find_element(By.CSS_SELECTOR, 'img').get_attribute('alt')
+        }, driver.find_elements(By.CSS_SELECTOR, '.article-list .list')))
 
         for article in articles:
             fe = fg.add_entry()
