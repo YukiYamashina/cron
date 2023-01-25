@@ -26,7 +26,7 @@ def main():
 
     try:
         driver.get(url)
-        item_selector = '#anonCarousel1 > ol > li'
+        item_selector = '#anonCarousel2 > ol > li'
         images = list(map(lambda elm: elm.find_element(By.CSS_SELECTOR, 'img').get_attribute('src'), driver.find_elements(By.CSS_SELECTOR, item_selector)))
         items = list(map(lambda elm: {
             'href': elm.find_element(By.CSS_SELECTOR, 'a').get_attribute('href'),
