@@ -6,7 +6,7 @@ on:
     # 毎日 10:00 (UST) = 19:00 (JST) に実行
     - cron: '0 10 * * *'
     # 毎日 22:00 (UST) = 7:00 (JST) に実行
-    - cron: '0 22 * * *'
+    # - cron: '0 22 * * *'
 
 jobs:
   create-release:
