@@ -1,102 +1,37 @@
 [
     {
-        "href": "https://www.amazon.co.jp/gp/product/B095GJGNBF?storeType=ebooks&pf_rd_p=278629a4-108d-466d-8c1f-b029777318e7&pf_rd_r=D61V465T27JQDVA2YHEH&pd_rd_wg=eXovj&pd_rd_i=B095GJGNBF&ref_=dbs_r_recs_hcko_kmd_r_0&pd_rd_w=KJBiD&content-id=amzn1.sym.278629a4-108d-466d-8c1f-b029777318e7&pd_rd_r=c18ac158-7fea-460b-88bd-70b6b2883f1c",
-        "title": "誰も教えてくれないお金と経済のしくみ",
-        "thumbnail": "https://m.media-amazon.com/images/I/51kaJytFGES._PJku-sticker-v7,TopRight,0,-50._SY300_.jpg"
+        "href": "https://www.amazon.co.jp/gp/product/B09F6HYJLR?storeType=ebooks&pf_rd_p=a37fcc3e-5f07-4c86-bd24-531b2ffbb580&pf_rd_r=AQ0SGKQQQFR2KW1P18TG&pd_rd_wg=Eifgv&pd_rd_i=B09F6HYJLR&ref_=dbs_r_recs_hcko_pppt_r_0&pd_rd_w=yZbnj&content-id=amzn1.sym.a37fcc3e-5f07-4c86-bd24-531b2ffbb580&pd_rd_r=5f1cff77-3cfe-433a-880f-6409610f038a",
+        "title": "ファッション!!　1 (文春e-book)",
+        "thumbnail": "https://m.media-amazon.com/images/I/51gf1uvZztL._SY300_.jpg"
     },
     {
-        "href": "https://www.amazon.co.jp/gp/product/B07P7JMW7L?storeType=ebooks&pf_rd_p=278629a4-108d-466d-8c1f-b029777318e7&pf_rd_r=D61V465T27JQDVA2YHEH&pd_rd_wg=eXovj&pd_rd_i=B07P7JMW7L&ref_=dbs_r_recs_hcko_kmd_r_1&pd_rd_w=KJBiD&content-id=amzn1.sym.278629a4-108d-466d-8c1f-b029777318e7&pd_rd_r=c18ac158-7fea-460b-88bd-70b6b2883f1c",
-        "title": "アマテラスの暗号 〈歴史ミステリー小説〉",
-        "thumbnail": "https://m.media-amazon.com/images/I/51vX8jfUhNL._PJku-sticker-v7,TopRight,0,-50._SY300_.jpg"
+        "href": "https://www.amazon.co.jp/gp/product/B0785DML94?storeType=ebooks&pf_rd_p=a37fcc3e-5f07-4c86-bd24-531b2ffbb580&pf_rd_r=AQ0SGKQQQFR2KW1P18TG&pd_rd_wg=Eifgv&pd_rd_i=B0785DML94&ref_=dbs_r_recs_hcko_pppt_r_1&pd_rd_w=yZbnj&content-id=amzn1.sym.a37fcc3e-5f07-4c86-bd24-531b2ffbb580&pd_rd_r=5f1cff77-3cfe-433a-880f-6409610f038a",
+        "title": "葉桜の季節に君を想うということ (文春文庫)",
+        "thumbnail": "https://m.media-amazon.com/images/I/514wa+tNqeL._SY300_.jpg"
     },
     {
-        "href": "https://www.amazon.co.jp/gp/product/B0743748ZB?storeType=ebooks&pf_rd_p=278629a4-108d-466d-8c1f-b029777318e7&pf_rd_r=D61V465T27JQDVA2YHEH&pd_rd_wg=eXovj&pd_rd_i=B0743748ZB&ref_=dbs_r_recs_hcko_kmd_r_2&pd_rd_w=KJBiD&content-id=amzn1.sym.278629a4-108d-466d-8c1f-b029777318e7&pd_rd_r=c18ac158-7fea-460b-88bd-70b6b2883f1c",
-        "title": "人生の短さについて　他2篇 (光文社古典新訳文庫)",
-        "thumbnail": "https://m.media-amazon.com/images/I/41LEoJo3MoL._PJku-sticker-v7,TopRight,0,-50._SY300_.jpg"
+        "href": "https://www.amazon.co.jp/gp/product/B0BZH4J5SF?storeType=ebooks&pf_rd_p=a37fcc3e-5f07-4c86-bd24-531b2ffbb580&pf_rd_r=AQ0SGKQQQFR2KW1P18TG&pd_rd_wg=Eifgv&pd_rd_i=B0BZH4J5SF&ref_=dbs_r_recs_hcko_pppt_r_2&pd_rd_w=yZbnj&content-id=amzn1.sym.a37fcc3e-5f07-4c86-bd24-531b2ffbb580&pd_rd_r=5f1cff77-3cfe-433a-880f-6409610f038a",
+        "title": "竜馬がゆく　4 コミック竜馬がゆく (文春e-book)",
+        "thumbnail": "https://m.media-amazon.com/images/I/516VqjVra2L._SY300_.jpg"
     },
     {
-        "href": "https://www.amazon.co.jp/gp/product/B09FFDL19Z?storeType=ebooks&pf_rd_p=278629a4-108d-466d-8c1f-b029777318e7&pf_rd_r=D61V465T27JQDVA2YHEH&pd_rd_wg=eXovj&pd_rd_i=B09FFDL19Z&ref_=dbs_r_recs_hcko_kmd_r_3&pd_rd_w=KJBiD&content-id=amzn1.sym.278629a4-108d-466d-8c1f-b029777318e7&pd_rd_r=c18ac158-7fea-460b-88bd-70b6b2883f1c",
-        "title": "はじめてのデータベース設計: 概念設計 E-R図作成編",
-        "thumbnail": "https://m.media-amazon.com/images/I/51r5bcjP3aL._PJku-sticker-v7,TopRight,0,-50._SY300_.jpg"
+        "href": "https://www.amazon.co.jp/gp/product/B087WQTPYD?storeType=ebooks&pf_rd_p=a37fcc3e-5f07-4c86-bd24-531b2ffbb580&pf_rd_r=AQ0SGKQQQFR2KW1P18TG&pd_rd_wg=Eifgv&pd_rd_i=B087WQTPYD&ref_=dbs_r_recs_hcko_pppt_r_3&pd_rd_w=yZbnj&content-id=amzn1.sym.a37fcc3e-5f07-4c86-bd24-531b2ffbb580&pd_rd_r=5f1cff77-3cfe-433a-880f-6409610f038a",
+        "title": "裸一貫！　つづ井さん２ (文春e-book)",
+        "thumbnail": "https://m.media-amazon.com/images/I/51cgJMjSEDL._SY300_.jpg"
     },
     {
-        "href": "https://www.amazon.co.jp/gp/product/B07TNZTZ7T?storeType=ebooks&pf_rd_p=278629a4-108d-466d-8c1f-b029777318e7&pf_rd_r=D61V465T27JQDVA2YHEH&pd_rd_wg=eXovj&pd_rd_i=B07TNZTZ7T&ref_=dbs_r_recs_hcko_kmd_r_4&pd_rd_w=KJBiD&content-id=amzn1.sym.278629a4-108d-466d-8c1f-b029777318e7&pd_rd_r=c18ac158-7fea-460b-88bd-70b6b2883f1c",
-        "title": "ブラック・ジャック　1 ブラック・ジャック　(少年チャンピオン・コミックス)",
-        "thumbnail": "https://m.media-amazon.com/images/I/51t3kb9YwQL._PJku-sticker-v7,TopRight,0,-50._SY300_.jpg"
+        "href": "https://www.amazon.co.jp/gp/product/B0BCWT97KC?storeType=ebooks&pf_rd_p=a37fcc3e-5f07-4c86-bd24-531b2ffbb580&pf_rd_r=AQ0SGKQQQFR2KW1P18TG&pd_rd_wg=Eifgv&pd_rd_i=B0BCWT97KC&ref_=dbs_r_recs_hcko_pppt_r_4&pd_rd_w=yZbnj&content-id=amzn1.sym.a37fcc3e-5f07-4c86-bd24-531b2ffbb580&pd_rd_r=5f1cff77-3cfe-433a-880f-6409610f038a",
+        "title": "やまとは恋のまほろば 　２　新装版 (文春e-book)",
+        "thumbnail": "https://m.media-amazon.com/images/I/41bQIZvy86L._SY300_.jpg"
     },
     {
-        "href": "https://www.amazon.co.jp/gp/product/B00H6XBIDC?storeType=ebooks&pf_rd_p=278629a4-108d-466d-8c1f-b029777318e7&pf_rd_r=D61V465T27JQDVA2YHEH&pd_rd_wg=eXovj&pd_rd_i=B00H6XBIDC&ref_=dbs_r_recs_hcko_kmd_r_5&pd_rd_w=KJBiD&content-id=amzn1.sym.278629a4-108d-466d-8c1f-b029777318e7&pd_rd_r=c18ac158-7fea-460b-88bd-70b6b2883f1c",
-        "title": "菊と刀 (光文社古典新訳文庫)",
-        "thumbnail": "https://m.media-amazon.com/images/I/414tXs3qWkL._PJku-sticker-v7,TopRight,0,-50._SY300_.jpg"
+        "href": "https://www.amazon.co.jp/gp/product/B0C3V6YCK8?storeType=ebooks&pf_rd_p=a37fcc3e-5f07-4c86-bd24-531b2ffbb580&pf_rd_r=AQ0SGKQQQFR2KW1P18TG&pd_rd_wg=Eifgv&pd_rd_i=B0C3V6YCK8&ref_=dbs_r_recs_hcko_pppt_r_5&pd_rd_w=yZbnj&content-id=amzn1.sym.a37fcc3e-5f07-4c86-bd24-531b2ffbb580&pd_rd_r=5f1cff77-3cfe-433a-880f-6409610f038a",
+        "title": "コメンテーター ドクター伊良部 (文春e-book)",
+        "thumbnail": "https://m.media-amazon.com/images/I/41StF6-NbNL._SY300_.jpg"
     },
     {
-        "href": "https://www.amazon.co.jp/gp/product/B0BXSYF2N4?storeType=ebooks&pf_rd_p=278629a4-108d-466d-8c1f-b029777318e7&pf_rd_r=D61V465T27JQDVA2YHEH&pd_rd_wg=eXovj&pd_rd_i=B0BXSYF2N4&ref_=dbs_r_recs_hcko_kmd_r_6&pd_rd_w=KJBiD&content-id=amzn1.sym.278629a4-108d-466d-8c1f-b029777318e7&pd_rd_r=c18ac158-7fea-460b-88bd-70b6b2883f1c",
-        "title": "ユーザーの問題解決とプロダクトの成功を導く　エンジニアのためのドキュメントライティング",
-        "thumbnail": "https://m.media-amazon.com/images/I/51RJ2QiJhmL._SY300_.jpg"
-    },
-    {
-        "href": "https://www.amazon.co.jp/gp/product/B00JPXES1K?storeType=ebooks&pf_rd_p=278629a4-108d-466d-8c1f-b029777318e7&pf_rd_r=D61V465T27JQDVA2YHEH&pd_rd_wg=eXovj&pd_rd_i=B00JPXES1K&ref_=dbs_r_recs_hcko_kmd_r_7&pd_rd_w=KJBiD&content-id=amzn1.sym.278629a4-108d-466d-8c1f-b029777318e7&pd_rd_r=c18ac158-7fea-460b-88bd-70b6b2883f1c",
-        "title": "ブッダ　1",
-        "thumbnail": "https://m.media-amazon.com/images/I/51Kvkq8me3L._PJku-sticker-v7,TopRight,0,-50._SY300_.jpg"
-    },
-    {
-        "href": "https://www.amazon.co.jp/gp/product/B0C3KQ58G7?storeType=ebooks&pf_rd_p=278629a4-108d-466d-8c1f-b029777318e7&pf_rd_r=D61V465T27JQDVA2YHEH&pd_rd_wg=eXovj&pd_rd_i=B0C3KQ58G7&ref_=dbs_r_recs_hcko_kmd_r_8&pd_rd_w=KJBiD&content-id=amzn1.sym.278629a4-108d-466d-8c1f-b029777318e7&pd_rd_r=c18ac158-7fea-460b-88bd-70b6b2883f1c",
-        "title": "アイドルとヲタクの理想の関係TrueEnd+",
-        "thumbnail": "https://m.media-amazon.com/images/I/51UOKOmqfAL._PJku-sticker-v7,TopRight,0,-50._SY300_.jpg"
-    },
-    {
-        "href": "https://www.amazon.co.jp/gp/product/B09N2LJF3X?storeType=ebooks&pf_rd_p=278629a4-108d-466d-8c1f-b029777318e7&pf_rd_r=D61V465T27JQDVA2YHEH&pd_rd_wg=eXovj&pd_rd_i=B09N2LJF3X&ref_=dbs_r_recs_hcko_kmd_r_9&pd_rd_w=KJBiD&content-id=amzn1.sym.278629a4-108d-466d-8c1f-b029777318e7&pd_rd_r=c18ac158-7fea-460b-88bd-70b6b2883f1c",
-        "title": "高円寺純情貧乏",
-        "thumbnail": "https://m.media-amazon.com/images/I/51aIv9eWcBL._PJku-sticker-v7,TopRight,0,-50._SY300_.jpg"
-    },
-    {
-        "href": "https://www.amazon.co.jp/gp/product/B07MM415SH?storeType=ebooks&pf_rd_p=278629a4-108d-466d-8c1f-b029777318e7&pf_rd_r=D61V465T27JQDVA2YHEH&pd_rd_wg=eXovj&pd_rd_i=B07MM415SH&ref_=dbs_r_recs_hcko_kmd_r_10&pd_rd_w=KJBiD&content-id=amzn1.sym.278629a4-108d-466d-8c1f-b029777318e7&pd_rd_r=c18ac158-7fea-460b-88bd-70b6b2883f1c",
-        "title": "俺んちに来た女騎士と田舎暮らしすることになった件 (1)",
-        "thumbnail": "https://m.media-amazon.com/images/I/61EpiNwpwPS._PJku-sticker-v7,TopRight,0,-50._SY300_.jpg"
-    },
-    {
-        "href": "https://www.amazon.co.jp/gp/product/B0BSTSR72L?storeType=ebooks&pf_rd_p=278629a4-108d-466d-8c1f-b029777318e7&pf_rd_r=D61V465T27JQDVA2YHEH&pd_rd_wg=eXovj&pd_rd_i=B0BSTSR72L&ref_=dbs_r_recs_hcko_kmd_r_11&pd_rd_w=KJBiD&content-id=amzn1.sym.278629a4-108d-466d-8c1f-b029777318e7&pd_rd_r=c18ac158-7fea-460b-88bd-70b6b2883f1c",
-        "title": "1日30分でOK！主婦でもできる株スイングトレードの教科書: これであなたも月3万円の副収入",
-        "thumbnail": "https://m.media-amazon.com/images/I/51NidC42v3L._PJku-sticker-v7,TopRight,0,-50._SY300_.jpg"
-    },
-    {
-        "href": "https://www.amazon.co.jp/gp/product/B00JPXEAJA?storeType=ebooks&pf_rd_p=278629a4-108d-466d-8c1f-b029777318e7&pf_rd_r=D61V465T27JQDVA2YHEH&pd_rd_wg=eXovj&pd_rd_i=B00JPXEAJA&ref_=dbs_r_recs_hcko_kmd_r_12&pd_rd_w=KJBiD&content-id=amzn1.sym.278629a4-108d-466d-8c1f-b029777318e7&pd_rd_r=c18ac158-7fea-460b-88bd-70b6b2883f1c",
-        "title": "奇子　1",
-        "thumbnail": "https://m.media-amazon.com/images/I/41yvY4KpkqL._PJku-sticker-v7,TopRight,0,-50._SY300_.jpg"
-    },
-    {
-        "href": "https://www.amazon.co.jp/gp/product/B0BYYJJLGZ?storeType=ebooks&pf_rd_p=278629a4-108d-466d-8c1f-b029777318e7&pf_rd_r=D61V465T27JQDVA2YHEH&pd_rd_wg=eXovj&pd_rd_i=B0BYYJJLGZ&ref_=dbs_r_recs_hcko_kmd_r_13&pd_rd_w=KJBiD&content-id=amzn1.sym.278629a4-108d-466d-8c1f-b029777318e7&pd_rd_r=c18ac158-7fea-460b-88bd-70b6b2883f1c",
-        "title": "筋肉童話 〜読むプロテイン〜",
-        "thumbnail": "https://m.media-amazon.com/images/I/611Ve+-rwEL._PJku-sticker-v7,TopRight,0,-50._SY300_.jpg"
-    },
-    {
-        "href": "https://www.amazon.co.jp/gp/product/B0C69KX5TQ?storeType=ebooks&pf_rd_p=278629a4-108d-466d-8c1f-b029777318e7&pf_rd_r=D61V465T27JQDVA2YHEH&pd_rd_wg=eXovj&pd_rd_i=B0C69KX5TQ&ref_=dbs_r_recs_hcko_kmd_r_14&pd_rd_w=KJBiD&content-id=amzn1.sym.278629a4-108d-466d-8c1f-b029777318e7&pd_rd_r=c18ac158-7fea-460b-88bd-70b6b2883f1c",
-        "title": "寝ている間にかってにやせる　寝る前5分張り筋はがし　深部リンパ節開放マッサージ",
-        "thumbnail": "https://m.media-amazon.com/images/I/51ObZGm7ycL._PJku-sticker-v7,TopRight,0,-50._SY300_.jpg"
-    },
-    {
-        "href": "https://www.amazon.co.jp/gp/product/B0C2P64LSM?storeType=ebooks&pf_rd_p=278629a4-108d-466d-8c1f-b029777318e7&pf_rd_r=D61V465T27JQDVA2YHEH&pd_rd_wg=eXovj&pd_rd_i=B0C2P64LSM&ref_=dbs_r_recs_hcko_kmd_r_15&pd_rd_w=KJBiD&content-id=amzn1.sym.278629a4-108d-466d-8c1f-b029777318e7&pd_rd_r=c18ac158-7fea-460b-88bd-70b6b2883f1c",
-        "title": "子どもが喜ぶ！ おうちで「給食」ベストレシピ (TJMOOK)",
-        "thumbnail": "https://m.media-amazon.com/images/I/51nYnwcnZzL._PJku-sticker-v7,TopRight,0,-50._SY300_.jpg"
-    },
-    {
-        "href": "https://www.amazon.co.jp/gp/product/B07QPWG78L?storeType=ebooks&pf_rd_p=278629a4-108d-466d-8c1f-b029777318e7&pf_rd_r=D61V465T27JQDVA2YHEH&pd_rd_wg=eXovj&pd_rd_i=B07QPWG78L&ref_=dbs_r_recs_hcko_kmd_r_16&pd_rd_w=KJBiD&content-id=amzn1.sym.278629a4-108d-466d-8c1f-b029777318e7&pd_rd_r=c18ac158-7fea-460b-88bd-70b6b2883f1c",
-        "title": "ニコマコス倫理学（上） (光文社古典新訳文庫)",
-        "thumbnail": "https://m.media-amazon.com/images/I/41eQb8PlpaL._PJku-sticker-v7,TopRight,0,-50._SY300_.jpg"
-    },
-    {
-        "href": "https://www.amazon.co.jp/gp/product/B0C6K8M57L?storeType=ebooks&pf_rd_p=278629a4-108d-466d-8c1f-b029777318e7&pf_rd_r=D61V465T27JQDVA2YHEH&pd_rd_wg=eXovj&pd_rd_i=B0C6K8M57L&ref_=dbs_r_recs_hcko_kmd_r_17&pd_rd_w=KJBiD&content-id=amzn1.sym.278629a4-108d-466d-8c1f-b029777318e7&pd_rd_r=c18ac158-7fea-460b-88bd-70b6b2883f1c",
-        "title": "生きづらい人のための人生戦略: ゼロから「自分」を作り変える10ステージ 生きづらい人のためのシリーズ",
-        "thumbnail": "https://m.media-amazon.com/images/I/51Btr4Ir92L._PJku-sticker-v7,TopRight,0,-50._SY300_.jpg"
-    },
-    {
-        "href": "https://www.amazon.co.jp/gp/product/B0BYF1X2PN?storeType=ebooks&pf_rd_p=278629a4-108d-466d-8c1f-b029777318e7&pf_rd_r=D61V465T27JQDVA2YHEH&pd_rd_wg=eXovj&pd_rd_i=B0BYF1X2PN&ref_=dbs_r_recs_hcko_kmd_r_18&pd_rd_w=KJBiD&content-id=amzn1.sym.278629a4-108d-466d-8c1f-b029777318e7&pd_rd_r=c18ac158-7fea-460b-88bd-70b6b2883f1c",
-        "title": "Android iPhoneスマホアプリ対応版 ChatGPTの応答精度はプロンプトが9割 2023年7月末最新情報 テンプレート付: GPT-4 BingAI Perplexity NotionAI GoogleBard 最新情報【 プロンプトエンジニアリング 】【 copilot 】【 人工知能 】【 チャットボット 】【 チャットGPT 】【 文章生成AI 】 おばちゃんでもわかるシリーズ",
-        "thumbnail": "https://m.media-amazon.com/images/I/51IQFD9t7OL._PJku-sticker-v7,TopRight,0,-50._SY300_.jpg"
-    },
-    {
-        "href": "https://www.amazon.co.jp/gp/product/B0CD6Z3N1P?storeType=ebooks&pf_rd_p=278629a4-108d-466d-8c1f-b029777318e7&pf_rd_r=D61V465T27JQDVA2YHEH&pd_rd_wg=eXovj&pd_rd_i=B0CD6Z3N1P&ref_=dbs_r_recs_hcko_kmd_r_19&pd_rd_w=KJBiD&content-id=amzn1.sym.278629a4-108d-466d-8c1f-b029777318e7&pd_rd_r=c18ac158-7fea-460b-88bd-70b6b2883f1c",
-        "title": "初心者なら株のデイトレでお金を増やしなさい！　【この1冊でデイトレ・スイングの稼ぎ方がわかる！　成功投資家とアナリストの知識と経験教えます！】",
-        "thumbnail": "https://m.media-amazon.com/images/I/51ved5GjDUL._SY300_.jpg"
+        "href": "https://www.amazon.co.jp/gp/product/B0B7RQN36J?storeType=ebooks&pf_rd_p=a37fcc3e-5f07-4c86-bd24-531b2ffbb580&pf_rd_r=AQ0SGKQQQFR2KW1P18TG&pd_rd_wg=Eifgv&pd_rd_i=B0B7RQN36J&ref_=dbs_r_recs_hcko_pppt_r_6&pd_rd_w=yZbnj&content-id=amzn1.sym.a37fcc3e-5f07-4c86-bd24-531b2ffbb580&pd_rd_r=5f1cff77-3cfe-433a-880f-6409610f038a",
+        "title": "いけない (文春文庫)",
+        "thumbnail": "https://m.media-amazon.com/images/I/5109R7hyZxL._SY300_.jpg"
     }
 ]
