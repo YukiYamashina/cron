@@ -1,17 +1,102 @@
 [
     {
-        "href": "https://www.amazon.co.jp/gp/product/B0C7FV2J9K?storeType=ebooks&pf_rd_p=7cef433f-789f-4bf6-bc14-7930610f4554&pf_rd_r=B9CR3P3CRBRY2NVBTEXN&pd_rd_wg=jTF9p&pd_rd_i=B0C7FV2J9K&ref_=dbs_r_recs_hcko_kdd_r_0&pd_rd_w=Bw0aE&content-id=amzn1.sym.7cef433f-789f-4bf6-bc14-7930610f4554&pd_rd_r=080875ea-d971-4130-8439-23922d7d65bc",
-        "title": "写真から見て探せる　配色パターン図鑑",
-        "thumbnail": "https://m.media-amazon.com/images/I/51ZTWoxrWxL._SY300_.jpg"
+        "href": "https://www.amazon.co.jp/gp/product/B09WQT2DQD?storeType=ebooks&pf_rd_p=d474ccc3-25c0-4acb-8bb0-cf075d5d4562&pf_rd_r=ARC4MSGNWX7DMRN1BYAA&pd_rd_wg=919fP&pd_rd_i=B09WQT2DQD&ref_=dbs_r_recs_hcko_ptos_r_0&pd_rd_w=LaB39&content-id=amzn1.sym.d474ccc3-25c0-4acb-8bb0-cf075d5d4562&pd_rd_r=1bb7de93-a8d0-43ad-be9f-b9196a54fbd5",
+        "title": "手を動かして考えればよくわかる 高効率言語 Rust 書きかた・作りかた",
+        "thumbnail": "https://m.media-amazon.com/images/I/414df+FWBLL._SY300_.jpg"
     },
     {
-        "href": "https://www.amazon.co.jp/gp/product/B0CG8SVRDQ?storeType=ebooks&pf_rd_p=7cef433f-789f-4bf6-bc14-7930610f4554&pf_rd_r=B9CR3P3CRBRY2NVBTEXN&pd_rd_wg=jTF9p&pd_rd_i=B0CG8SVRDQ&ref_=dbs_r_recs_hcko_kdd_r_1&pd_rd_w=Bw0aE&content-id=amzn1.sym.7cef433f-789f-4bf6-bc14-7930610f4554&pd_rd_r=080875ea-d971-4130-8439-23922d7d65bc",
-        "title": "まんがでわかる　敏感すぎるあなたが７日間で自己肯定感をあげる方法",
-        "thumbnail": "https://m.media-amazon.com/images/I/51vRIPv+lOL._SY300_.jpg"
+        "href": "https://www.amazon.co.jp/gp/product/B0093G7OM4?storeType=ebooks&pf_rd_p=d474ccc3-25c0-4acb-8bb0-cf075d5d4562&pf_rd_r=ARC4MSGNWX7DMRN1BYAA&pd_rd_wg=919fP&pd_rd_i=B0093G7OM4&ref_=dbs_r_recs_hcko_ptos_r_1&pd_rd_w=LaB39&content-id=amzn1.sym.d474ccc3-25c0-4acb-8bb0-cf075d5d4562&pd_rd_r=1bb7de93-a8d0-43ad-be9f-b9196a54fbd5",
+        "title": "喰霊(12) (角川コミックス・エース)",
+        "thumbnail": "https://m.media-amazon.com/images/I/51UmBfkSjsL._SY300_.jpg"
     },
     {
-        "href": "https://www.amazon.co.jp/gp/product/B0CBTPCM66?storeType=ebooks&pf_rd_p=7cef433f-789f-4bf6-bc14-7930610f4554&pf_rd_r=B9CR3P3CRBRY2NVBTEXN&pd_rd_wg=jTF9p&pd_rd_i=B0CBTPCM66&ref_=dbs_r_recs_hcko_kdd_r_2&pd_rd_w=Bw0aE&content-id=amzn1.sym.7cef433f-789f-4bf6-bc14-7930610f4554&pd_rd_r=080875ea-d971-4130-8439-23922d7d65bc",
-        "title": "D28 地球の歩き方 インド 2024～2025",
-        "thumbnail": "https://m.media-amazon.com/images/I/51hFSbUhkCL._SY300_.jpg"
+        "href": "https://www.amazon.co.jp/gp/product/B00IYE7X7M?storeType=ebooks&pf_rd_p=d474ccc3-25c0-4acb-8bb0-cf075d5d4562&pf_rd_r=ARC4MSGNWX7DMRN1BYAA&pd_rd_wg=919fP&pd_rd_i=B00IYE7X7M&ref_=dbs_r_recs_hcko_ptos_r_2&pd_rd_w=LaB39&content-id=amzn1.sym.d474ccc3-25c0-4acb-8bb0-cf075d5d4562&pd_rd_r=1bb7de93-a8d0-43ad-be9f-b9196a54fbd5",
+        "title": "電話はなぜつながるのか　知っておきたいNTT電話、IP電話、携帯電話の基礎知識",
+        "thumbnail": "https://m.media-amazon.com/images/I/51oMLS3sQkL._SY300_.jpg"
+    },
+    {
+        "href": "https://www.amazon.co.jp/gp/product/B084VDZ5R5?storeType=ebooks&pf_rd_p=d474ccc3-25c0-4acb-8bb0-cf075d5d4562&pf_rd_r=ARC4MSGNWX7DMRN1BYAA&pd_rd_wg=919fP&pd_rd_i=B084VDZ5R5&ref_=dbs_r_recs_hcko_ptos_r_3&pd_rd_w=LaB39&content-id=amzn1.sym.d474ccc3-25c0-4acb-8bb0-cf075d5d4562&pd_rd_r=1bb7de93-a8d0-43ad-be9f-b9196a54fbd5",
+        "title": "紫式部ひとり語り (角川ソフィア文庫)",
+        "thumbnail": "https://m.media-amazon.com/images/I/51JKuxK-j5L._SY300_.jpg"
+    },
+    {
+        "href": "https://www.amazon.co.jp/gp/product/B00R4AG0SU?storeType=ebooks&pf_rd_p=d474ccc3-25c0-4acb-8bb0-cf075d5d4562&pf_rd_r=ARC4MSGNWX7DMRN1BYAA&pd_rd_wg=919fP&pd_rd_i=B00R4AG0SU&ref_=dbs_r_recs_hcko_ptos_r_4&pd_rd_w=LaB39&content-id=amzn1.sym.d474ccc3-25c0-4acb-8bb0-cf075d5d4562&pd_rd_r=1bb7de93-a8d0-43ad-be9f-b9196a54fbd5",
+        "title": "水色の部屋　（上）",
+        "thumbnail": "https://m.media-amazon.com/images/I/51oEUS9swhL._SY300_.jpg"
+    },
+    {
+        "href": "https://www.amazon.co.jp/gp/product/B00JPXEQMQ?storeType=ebooks&pf_rd_p=d474ccc3-25c0-4acb-8bb0-cf075d5d4562&pf_rd_r=ARC4MSGNWX7DMRN1BYAA&pd_rd_wg=919fP&pd_rd_i=B00JPXEQMQ&ref_=dbs_r_recs_hcko_ptos_r_5&pd_rd_w=LaB39&content-id=amzn1.sym.d474ccc3-25c0-4acb-8bb0-cf075d5d4562&pd_rd_r=1bb7de93-a8d0-43ad-be9f-b9196a54fbd5",
+        "title": "空気の底",
+        "thumbnail": "https://m.media-amazon.com/images/I/41IVqbXZ-oL._SY300_.jpg"
+    },
+    {
+        "href": "https://www.amazon.co.jp/gp/product/B0CJQWMHJ4?storeType=ebooks&pf_rd_p=d474ccc3-25c0-4acb-8bb0-cf075d5d4562&pf_rd_r=ARC4MSGNWX7DMRN1BYAA&pd_rd_wg=919fP&pd_rd_i=B0CJQWMHJ4&ref_=dbs_r_recs_hcko_ptos_r_6&pd_rd_w=LaB39&content-id=amzn1.sym.d474ccc3-25c0-4acb-8bb0-cf075d5d4562&pd_rd_r=1bb7de93-a8d0-43ad-be9f-b9196a54fbd5",
+        "title": "ごはんのように食べる麺 (扶桑社ムック)",
+        "thumbnail": "https://m.media-amazon.com/images/I/51zjOEvBJDL._SY300_.jpg"
+    },
+    {
+        "href": "https://www.amazon.co.jp/gp/product/B00932N2UG?storeType=ebooks&pf_rd_p=d474ccc3-25c0-4acb-8bb0-cf075d5d4562&pf_rd_r=ARC4MSGNWX7DMRN1BYAA&pd_rd_wg=919fP&pd_rd_i=B00932N2UG&ref_=dbs_r_recs_hcko_ptos_r_7&pd_rd_w=LaB39&content-id=amzn1.sym.d474ccc3-25c0-4acb-8bb0-cf075d5d4562&pd_rd_r=1bb7de93-a8d0-43ad-be9f-b9196a54fbd5",
+        "title": "未来日記(6) (角川コミックス・エース)",
+        "thumbnail": "https://m.media-amazon.com/images/I/51JkfwWplHL._SY300_.jpg"
+    },
+    {
+        "href": "https://www.amazon.co.jp/gp/product/B0C7872VSM?storeType=ebooks&pf_rd_p=d474ccc3-25c0-4acb-8bb0-cf075d5d4562&pf_rd_r=ARC4MSGNWX7DMRN1BYAA&pd_rd_wg=919fP&pd_rd_i=B0C7872VSM&ref_=dbs_r_recs_hcko_ptos_r_8&pd_rd_w=LaB39&content-id=amzn1.sym.d474ccc3-25c0-4acb-8bb0-cf075d5d4562&pd_rd_r=1bb7de93-a8d0-43ad-be9f-b9196a54fbd5",
+        "title": "服はいっぱいあるのにあか抜けきれないと思ったら",
+        "thumbnail": "https://m.media-amazon.com/images/I/510qT6-zWDL._SY300_.jpg"
+    },
+    {
+        "href": "https://www.amazon.co.jp/gp/product/B09MRLKZY6?storeType=ebooks&pf_rd_p=d474ccc3-25c0-4acb-8bb0-cf075d5d4562&pf_rd_r=ARC4MSGNWX7DMRN1BYAA&pd_rd_wg=919fP&pd_rd_i=B09MRLKZY6&ref_=dbs_r_recs_hcko_ptos_r_9&pd_rd_w=LaB39&content-id=amzn1.sym.d474ccc3-25c0-4acb-8bb0-cf075d5d4562&pd_rd_r=1bb7de93-a8d0-43ad-be9f-b9196a54fbd5",
+        "title": "「わかりあえない」を越える――目の前のつながりから、共に未来をつくるコミュニケーション・NVC (海士の風)",
+        "thumbnail": "https://m.media-amazon.com/images/I/41xRG1rmLxL._SY300_.jpg"
+    },
+    {
+        "href": "https://www.amazon.co.jp/gp/product/B0CCXZXFJY?storeType=ebooks&pf_rd_p=d474ccc3-25c0-4acb-8bb0-cf075d5d4562&pf_rd_r=ARC4MSGNWX7DMRN1BYAA&pd_rd_wg=919fP&pd_rd_i=B0CCXZXFJY&ref_=dbs_r_recs_hcko_ptos_r_10&pd_rd_w=LaB39&content-id=amzn1.sym.d474ccc3-25c0-4acb-8bb0-cf075d5d4562&pd_rd_r=1bb7de93-a8d0-43ad-be9f-b9196a54fbd5",
+        "title": "今日も嫁を口説こうか【文庫電子版】 (扶桑社ＢＯＯＫＳ文庫)",
+        "thumbnail": "https://m.media-amazon.com/images/I/41Vxaqd+U+L._SY300_.jpg"
+    },
+    {
+        "href": "https://www.amazon.co.jp/gp/product/B0CKBKB873?storeType=ebooks&pf_rd_p=d474ccc3-25c0-4acb-8bb0-cf075d5d4562&pf_rd_r=ARC4MSGNWX7DMRN1BYAA&pd_rd_wg=919fP&pd_rd_i=B0CKBKB873&ref_=dbs_r_recs_hcko_ptos_r_11&pd_rd_w=LaB39&content-id=amzn1.sym.d474ccc3-25c0-4acb-8bb0-cf075d5d4562&pd_rd_r=1bb7de93-a8d0-43ad-be9f-b9196a54fbd5",
+        "title": "非売品ゲームソフトガイドブックGOLD",
+        "thumbnail": "https://m.media-amazon.com/images/I/51Bu3wvNqbL._SY300_.jpg"
+    },
+    {
+        "href": "https://www.amazon.co.jp/gp/product/B08R8KBZKZ?storeType=ebooks&pf_rd_p=d474ccc3-25c0-4acb-8bb0-cf075d5d4562&pf_rd_r=ARC4MSGNWX7DMRN1BYAA&pd_rd_wg=919fP&pd_rd_i=B08R8KBZKZ&ref_=dbs_r_recs_hcko_ptos_r_12&pd_rd_w=LaB39&content-id=amzn1.sym.d474ccc3-25c0-4acb-8bb0-cf075d5d4562&pd_rd_r=1bb7de93-a8d0-43ad-be9f-b9196a54fbd5",
+        "title": "恐れのない組織――「心理的安全性」が学習・イノベーション・成長をもたらす",
+        "thumbnail": "https://m.media-amazon.com/images/I/41k3ovB0kCL._SY300_.jpg"
+    },
+    {
+        "href": "https://www.amazon.co.jp/gp/product/B09F39GDS3?storeType=ebooks&pf_rd_p=d474ccc3-25c0-4acb-8bb0-cf075d5d4562&pf_rd_r=ARC4MSGNWX7DMRN1BYAA&pd_rd_wg=919fP&pd_rd_i=B09F39GDS3&ref_=dbs_r_recs_hcko_ptos_r_13&pd_rd_w=LaB39&content-id=amzn1.sym.d474ccc3-25c0-4acb-8bb0-cf075d5d4562&pd_rd_r=1bb7de93-a8d0-43ad-be9f-b9196a54fbd5",
+        "title": "Motor Fan illustrated Vol.184",
+        "thumbnail": "https://m.media-amazon.com/images/I/51burpZAAyL._SY300_.jpg"
+    },
+    {
+        "href": "https://www.amazon.co.jp/gp/product/B0B81Q11Z8?storeType=ebooks&pf_rd_p=d474ccc3-25c0-4acb-8bb0-cf075d5d4562&pf_rd_r=ARC4MSGNWX7DMRN1BYAA&pd_rd_wg=919fP&pd_rd_i=B0B81Q11Z8&ref_=dbs_r_recs_hcko_ptos_r_14&pd_rd_w=LaB39&content-id=amzn1.sym.d474ccc3-25c0-4acb-8bb0-cf075d5d4562&pd_rd_r=1bb7de93-a8d0-43ad-be9f-b9196a54fbd5",
+        "title": "SF作家の地球旅行記",
+        "thumbnail": "https://m.media-amazon.com/images/I/41HntdIp-qL._SY300_.jpg"
+    },
+    {
+        "href": "https://www.amazon.co.jp/gp/product/B0CHJ7JJQJ?storeType=ebooks&pf_rd_p=d474ccc3-25c0-4acb-8bb0-cf075d5d4562&pf_rd_r=ARC4MSGNWX7DMRN1BYAA&pd_rd_wg=919fP&pd_rd_i=B0CHJ7JJQJ&ref_=dbs_r_recs_hcko_ptos_r_15&pd_rd_w=LaB39&content-id=amzn1.sym.d474ccc3-25c0-4acb-8bb0-cf075d5d4562&pd_rd_r=1bb7de93-a8d0-43ad-be9f-b9196a54fbd5",
+        "title": "強欲の海に潜行せよ（下） (扶桑社ＢＯＯＫＳミステリー)",
+        "thumbnail": "https://m.media-amazon.com/images/I/515jKsCFb8L._SY300_.jpg"
+    },
+    {
+        "href": "https://www.amazon.co.jp/gp/product/B07WGM8CZS?storeType=ebooks&pf_rd_p=d474ccc3-25c0-4acb-8bb0-cf075d5d4562&pf_rd_r=ARC4MSGNWX7DMRN1BYAA&pd_rd_wg=919fP&pd_rd_i=B07WGM8CZS&ref_=dbs_r_recs_hcko_ptos_r_16&pd_rd_w=LaB39&content-id=amzn1.sym.d474ccc3-25c0-4acb-8bb0-cf075d5d4562&pd_rd_r=1bb7de93-a8d0-43ad-be9f-b9196a54fbd5",
+        "title": "図解でわかる 14歳から知る影響と連鎖の全世界史",
+        "thumbnail": "https://m.media-amazon.com/images/I/515R8YUxn+L._SY300_.jpg"
+    },
+    {
+        "href": "https://www.amazon.co.jp/gp/product/B0891RQ324?storeType=ebooks&pf_rd_p=d474ccc3-25c0-4acb-8bb0-cf075d5d4562&pf_rd_r=ARC4MSGNWX7DMRN1BYAA&pd_rd_wg=919fP&pd_rd_i=B0891RQ324&ref_=dbs_r_recs_hcko_ptos_r_17&pd_rd_w=LaB39&content-id=amzn1.sym.d474ccc3-25c0-4acb-8bb0-cf075d5d4562&pd_rd_r=1bb7de93-a8d0-43ad-be9f-b9196a54fbd5",
+        "title": "[音声DL付]指名が途切れない通訳ガイドの英語で日本紹介アイデアブック",
+        "thumbnail": "https://m.media-amazon.com/images/I/517wxEljT8L._SY300_.jpg"
+    },
+    {
+        "href": "https://www.amazon.co.jp/gp/product/B015IS09XQ?storeType=ebooks&pf_rd_p=d474ccc3-25c0-4acb-8bb0-cf075d5d4562&pf_rd_r=ARC4MSGNWX7DMRN1BYAA&pd_rd_wg=919fP&pd_rd_i=B015IS09XQ&ref_=dbs_r_recs_hcko_ptos_r_18&pd_rd_w=LaB39&content-id=amzn1.sym.d474ccc3-25c0-4acb-8bb0-cf075d5d4562&pd_rd_r=1bb7de93-a8d0-43ad-be9f-b9196a54fbd5",
+        "title": "誰でもないところからの眺め",
+        "thumbnail": "https://m.media-amazon.com/images/I/51WmGXt1h7L._SY300_.jpg"
+    },
+    {
+        "href": "https://www.amazon.co.jp/gp/product/B0C953DTMQ?storeType=ebooks&pf_rd_p=d474ccc3-25c0-4acb-8bb0-cf075d5d4562&pf_rd_r=ARC4MSGNWX7DMRN1BYAA&pd_rd_wg=919fP&pd_rd_i=B0C953DTMQ&ref_=dbs_r_recs_hcko_ptos_r_19&pd_rd_w=LaB39&content-id=amzn1.sym.d474ccc3-25c0-4acb-8bb0-cf075d5d4562&pd_rd_r=1bb7de93-a8d0-43ad-be9f-b9196a54fbd5",
+        "title": "探偵怪談",
+        "thumbnail": "https://m.media-amazon.com/images/I/51AxcTk+CdL._SY300_.jpg"
     }
 ]
